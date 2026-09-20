@@ -331,21 +331,6 @@ Power BI was used as a visualization and reporting tool after completing the SQL
 
 * Data Validation
 
-## 📁 Project Structure
-
-```
-ecommerce-sales-business-analytics/
-│
-├── ecommerce_sales.sql
-│
-├── README.md
-│
-├── dataset/
-│   └── ecommerce_sales.csv
-│
-└── powerbi/
-    └── ecommerce_sales_dashboard.pbix
-```
 
 ## 🚀 Key Learning Outcomes
 
@@ -408,5 +393,4 @@ GitHub: [shamim-01](https://github.com/shamim-01) 
 ⭐ If you find this project useful, feel free to explore the SQL queries and provide feedback.
 
 
-এটা Data Analyst portfolio-এর জন্য পরিষ্কারভাবে দেখাবে যে তুমি শুধু dashboard বানাওনি, বরং SQL দিয়ে data analysis করেছো এবং Power BI দিয়ে findings visualize করেছো।
-```
+
